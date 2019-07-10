@@ -1,1 +1,1 @@
-I am deploying a file
+echo "I am deploying a file"
