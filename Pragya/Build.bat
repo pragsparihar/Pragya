@@ -1,1 +1,1 @@
-I am building a file
+echo "I am building a file"
