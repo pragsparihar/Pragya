@@ -1,1 +1,1 @@
-Compiling a file
+echo "Compiling a file"
